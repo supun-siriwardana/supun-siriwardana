@@ -1,7 +1,6 @@
 - 👋 Hi, I’m supun siriwardana
 - 👀 I’m interested in Full-stack Development and Data Science
 - 🌱 I’m currently an undergraduate
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me supunsdir@gmail.com
 
 <!---
